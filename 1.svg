@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 207.676 206.318">
+<metadata>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+</metadata>
+<defs/>
+<g id="logoMark" vectornator:layerName="logoMark">
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M37.3728+37.1282L37.3728+169.19L71.3941+169.19L71.3941+97.2305L97.4745+97.2305L37.3728+37.1282Z" vectornator:shadowOffset="10" fill="#70ebb5" opacity="1" vectornator:shadowAngle="0.785167"/>
+<path vectornator:shadowColor="#000000" vectornator:shadowOpacity="0.333" vectornator:shadowRadius="10" d="M136.282+37.1282L136.282+109.088L110.203+109.088L170.304+169.19L170.304+37.1282L136.282+37.1282Z" vectornator:shadowOffset="10" fill="#70ebb5" opacity="1" vectornator:shadowAngle="0.785167"/>
+</g>
+</svg>
